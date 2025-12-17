@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SpaceX Rockets</string>
+    <string name="rockets">Rockets</string>
+    <string name="overview">Overview</string>
+    <string name="parameters">Parameters</string>
+    <string name="first_stage">First stage</string>
+    <string name="second_stage">Second stage</string>
+    <string name="height">height</string>
+    <string name="diameter">diameter</string>
+    <string name="mass">mass</string>
+    <string name="engine_count">%1$d engines</string>
+    <string name="fuel_count">%1$d tons of fuel</string>
+    <string name="burn_time">%1$d seconds burn time</string>
+    <string name="reusable">reusable</string>
+    <string name="not_reusable">not reusable</string>
+    <string name="launch">Launch</string>
+    <string name="photos">Photos</string>
+    <string name="we_have_liftoff">We have liftoff!</string>
+</resources>
